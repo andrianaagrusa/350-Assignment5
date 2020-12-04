@@ -8,7 +8,7 @@ CPSC 350-02
 
 References:
 
-help with syntax, genstack, vector, bst
+help with syntax, genstack, vector, bst:
 
 StackOverflow.com
 
